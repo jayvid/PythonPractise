@@ -1,3 +1,10 @@
+"""
+Question - list out all elements from a list that has duplicates
+Answer   -
+   1) Use a dictionary to store occurences of each element
+   2) Use another list to store elements that has duplicates
+"""
+
 mylist = [10,20,10,20,30,40,50]
 duplist = []
 
